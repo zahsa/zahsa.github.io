@@ -25,8 +25,8 @@ slideshare: https://www.slideshare.net/zahsa/edit_my_uploads
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/zprfl.png
-favicon: ./assets/img/zsl.png
-favicon_dark: ./assets/img/zsl.png
+favicon: ./assets/img/fvicon2.png
+favicon_dark: ./assets/img/fvicon2.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
