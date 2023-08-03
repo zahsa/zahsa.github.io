@@ -4,7 +4,7 @@ layout: homepage
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, 
+- **Computer Vision:** Object/Face recognition/Detection from images and videos
 - **Machine Learning:** transfer learning, self-supervised learning, reinforcement learning, generative learning
 
 <!-- ## News --> 
