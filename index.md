@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## Research Interests
+<!-- ## Research Interests  -->
 
-- **Machine Learning:** transfer learning, self-supervised learning, reinforcement learning, generative learning, AI Explainability
-- **Computer Vision:** Object/Face recognition/Detection from images and videos
-- Data Analysis, Time series Analysis, Sensitivity Analysis
+<!-- - **Machine Learning:** transfer learning, self-supervised learning, reinforcement learning, generative learning, AI Explainability  -->
+<!-- - **Computer Vision:** Object/Face recognition/Detection from images and videos  -->
+<!-- - Data Analysis, Time series Analysis, Sensitivity Analysis  -->
 
 <!-- ## News --> 
 
