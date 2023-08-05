@@ -20,4 +20,4 @@ layout: homepage
 
 <!-- {% include_relative _includes/services.md %} --> 
 
- {% include_relative _includes/test.md %} 
+<!-- {% include_relative _includes/test.md %} --> 
