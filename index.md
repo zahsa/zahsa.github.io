@@ -8,7 +8,7 @@ layout: homepage
 <!-- - **Computer Vision:** Object/Face recognition/Detection from images and videos  -->
 <!-- - Data Analysis, Time series Analysis, Sensitivity Analysis  -->
 
-<!-- ## News --> 
+## Review services 
 
 <!-- ## - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
@@ -18,6 +18,6 @@ layout: homepage
 
 <!-- {% include_relative _includes/publications.md %} --> 
 
-{% include_relative _includes/services.md %} 
+<!-- {% include_relative _includes/services.md %} --> 
 
-<!--{% include_relative _includes/test.md %} -->  
+<!-- {% include_relative _includes/test.md %}  --> 
