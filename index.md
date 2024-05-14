@@ -12,6 +12,7 @@ layout: homepage
   <li>Reinforcement learning</li>
   <li>Generative learning</li>
   <li>AI Explainability </li>
+  <li>LLMs </li>
 </ul> 
 
 
