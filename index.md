@@ -6,11 +6,11 @@ layout: homepage
 
 **Machine Learning:** 
  <ul>
-  <li>deep learning</li>
-  <li>transfer learning</li>
-  <li>self-supervised learning</li>
-  <li>reinforcement learning</li>
-  <li>generative learning</li>
+  <li>Deep learning</li>
+  <li>Transfer learning</li>
+  <li>Self-supervised learning</li>
+  <li>Reinforcement learning</li>
+  <li>Generative learning</li>
   <li>AI Explainability </li>
 </ul> 
 
