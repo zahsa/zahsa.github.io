@@ -14,8 +14,8 @@ layout: homepage
   <li>AI Explainability </li>
 </ul> 
 
-<!-- - **Computer Vision:** Object/Face recognition/Detection from images and videos  -->
-<!-- - Data Analysis, Time series Analysis, Sensitivity Analysis  -->
+<!--  **Computer Vision:** Object/Face recognition/Detection from images and videos  
+ Data Analysis, Time series Analysis, Sensitivity Analysis  -->
 
 ## Review services 
 
