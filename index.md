@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-<!-- ## Research Interests  -->
+## Research Interests  
 
-<!-- - **Machine Learning:** transfer learning, self-supervised learning, reinforcement learning, generative learning, AI Explainability  -->
+**Machine Learning:** deep learning, transfer learning, self-supervised learning, reinforcement learning, generative learning, AI Explainability 
 <!-- - **Computer Vision:** Object/Face recognition/Detection from images and videos  -->
 <!-- - Data Analysis, Time series Analysis, Sensitivity Analysis  -->
 
@@ -18,6 +18,6 @@ layout: homepage
 
 <!-- {% include_relative _includes/publications.md %} --> 
 
-<!-- {% include_relative _includes/services.md %} --> 
+{% include_relative _includes/services.md %} 
 
-{% include_relative _includes/test.md %}  
+<!--{% include_relative _includes/test.md %} -->  
