@@ -12,7 +12,7 @@ layout: homepage
   <li>Reinforcement learning</li>
   <li>Generative learning</li>
   <li>AI Explainability </li>
-  <li>LLMs </li>
+  <li>Large Language Models (LLMs) </li>
 </ul> 
 
 ## Review services 
@@ -24,6 +24,8 @@ layout: homepage
   <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication 2016</autocolor></a></li>
   
 </ul>
+
+
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
