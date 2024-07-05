@@ -11,7 +11,7 @@ layout: homepage
   <li>Self-supervised learning</li>
   <li>Reinforcement learning</li>
   <li>Generative learning</li>
-  <li>AI EXplainability (XAI) </li>
+  <li>AI eXplainability (XAI) </li>
   <li>Large Language Models (LLMs) </li>
 </ul> 
 
