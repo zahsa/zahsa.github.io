@@ -26,6 +26,15 @@ layout: homepage
 </ul>
 
 
+  <div class="row">
+  <div class="column">
+    <img src="/assets/img/dal_logo.png"  style="width:10%">
+  </div>
+  <div class="column">
+    <img src="/assets/img/padovalogo.png"  style="width:10%">
+  </div>
+ 
+</div> 
 
         
 <!-- Calendly badge widget begin -->
