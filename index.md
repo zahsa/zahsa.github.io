@@ -26,22 +26,8 @@ layout: homepage
 </ul>
 
 
-<hr class="featurette-divider">
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr>
-              <heading>Work Experience</heading>
-                <td style="padding:2.5%;width:20%;vertical-align:middle">
-                  <a href=""><img style="width:100%;max-width:100%" src="/assets/img/dal_logo" class="img-circle"></a>
-                  <center><p><strong></strong></p></center><br>
-                </td>
-                <td style="padding:2.5%;width:20%;vertical-align:middle">
-                  <a href="/paper_figs/magic_leap.png"><img style="width:100%;max-width:100%"  src="/assets/img/padovalogo.png" class="img-circle"></a>
-                  <center><p><strong></strong></p></center><br>
-                </td>
-                
- 
-            </tr>
-        </tbody></table>
+
+        
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
