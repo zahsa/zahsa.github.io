@@ -270,7 +270,7 @@ h2 {
 }
 
 p, ul, ol, table, pre, dl {
- border:0 margin:0 0 20px;
+ border: none; margin:0 0 20px;
 }
 
 h1, h2, h3 {
@@ -335,7 +335,7 @@ pre {
 
 table {
   width:100%;
-  border-collapse:collapse;border:0
+  border-collapse:collapse;border: none;
 }
 
 th, td {
