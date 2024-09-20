@@ -26,13 +26,13 @@ layout: homepage
 </ul>
 
 
-<table border="0">  
+<!--<table border="0">  
   <tr>
     <td>Data 4</td>
     <td>Data 5</td>
     <td>Data 6</td>
   </tr>
-</table> 
+</table> -->
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
