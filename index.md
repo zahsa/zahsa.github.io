@@ -24,15 +24,16 @@ layout: homepage
   <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication 2016</autocolor></a></li>
   
 </ul>
- 
-<table border="0">
 
+
+<table border="0">  
   <tr>
     <td>Data 4</td>
     <td>Data 5</td>
     <td>Data 6</td>
   </tr>
-</table>
+</table> 
+
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
