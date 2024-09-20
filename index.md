@@ -24,44 +24,7 @@ layout: homepage
   <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication 2016</autocolor></a></li>
   
 </ul>
-
-<table cellpadding="0" cellspacing="0" border="0">  
-
-  <tr>  
-
-    <th> </th>  
-
-    <th> </th>     
-
-  </tr>  
-
-<tr>  
-
-    <th> </th>  
-
-    <th> </th>     
-
-  </tr>  
-
-<tr>  
-
-    <th> </th>  
-
-    <th> </th>     
-
-  </tr>  
-
-  <tr>  
-
-    <th><img src="/assets/img/dal_logo.png" style="width:30%"></th>  
-
-    <th><img src="/assets/img/padovalogo.png" style="width:30%"></th>     
-
-  </tr>  
-
-  
-
-</table>   
+ 
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
