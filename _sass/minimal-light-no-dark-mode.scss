@@ -277,7 +277,8 @@ pre {
 
 table {
   width:100%;
-  border-collapse:collapse;border="0";
+    border:0px;border-spacing:0px;border-collapse: collapse;border-style: none;
+
 }
 
 th, td {
