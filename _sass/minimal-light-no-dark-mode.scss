@@ -218,7 +218,7 @@ h2 {
 }
 
 p, ul, ol, table, pre, dl {
- margin:0 0 20px;border: none;
+ margin:0 0 20px;border: none !important;;
 }
 
 h1, h2, h3 {
@@ -277,13 +277,13 @@ pre {
 
 table {
   width:100%;
-    bborder: none;border-spacing:0px;border-collapse: collapse;border-style: none;
+    bborder: none !important;border-spacing:0px;border-collapse: collapse;border-style: none;
 
 }
 
 th, td {
   text-align:left;
-  border: none;
+  border: none !important;;
   border-collapse: collapse;
  /* padding:5px 10px;*/
 /*   border-bottom:1px solid #e5e5e5;border="0";  */
