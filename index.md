@@ -27,7 +27,7 @@ layout: homepage
 
 
 <!-- -->
-<h2> Work Experience</h2> 
+## Work Experience 
 
 <table border="0">  
   <tr>
