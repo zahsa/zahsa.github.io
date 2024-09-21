@@ -31,6 +31,8 @@ layout: homepage
 
 <table border="0">  
   <tr>
+   <td><img src="/assets/img/lei.png" style="width:30%"></td> 
+    <td><img src="/assets/img/stanf.png" style="width:30%"></td> 
     <td><img src="/assets/img/dal_logo.png" style="width:30%"></td> 
     <td><img src="/assets/img/padovalogo.png" style="width:30%"></td> 
 
