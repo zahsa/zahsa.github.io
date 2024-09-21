@@ -35,6 +35,7 @@ layout: homepage
     <td><img src="/assets/img/stanf.png" style="width:30%"></td> 
     <td><img src="/assets/img/dal_logo.png" style="width:30%"></td> 
     <td><img src="/assets/img/padovalogo.png" style="width:30%"></td> 
+    <td><img src="/assets/img/uab.png" style="width:30%"></td> 
 
   </tr> 
 </table> 
