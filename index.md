@@ -21,9 +21,9 @@ layout: homepage
   <li><a href="http://ojs.bonviewpress.com/index.php/JCCE/index"><autocolor>Journal of Computational and Cognitive Engineering 2024</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/oj"><autocolor>IEEE Open Journal of the Computer Society 2023</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/umgd20/"><autocolor>Marine Geodesy 2023</autocolor></a></li>
-  <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication 2016</autocolor></a></li>
-  
+  <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication 2016</autocolor></a></li>  
 </ul>
+<br>
 
 
 ## Work Experience 
@@ -36,7 +36,6 @@ layout: homepage
     <td><img src="/assets/img/padovalogo.png" style="width:50%"></td> 
     <td><img src="/assets/img/uab.png" style="width:50%"></td> 
     <td><img src="/assets/img/ut.png" style="width:50%"></td> 
-
   </tr> 
 </table> 
 
