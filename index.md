@@ -30,12 +30,12 @@ layout: homepage
 
 <table border="0">  
   <tr>
-    <td><img src="/assets/img/stanf.png" style="width:50%"></td> 
-    <td><img src="/assets/img/lei.png" style="width:50%"></td> 
-    <td><img src="/assets/img/dal_logo.png" style="width:50%"></td> 
-    <td><img src="/assets/img/padovalogo.png" style="width:50%"></td> 
-    <td><img src="/assets/img/ut.png" style="width:50%"></td> 
-    <td><img src="/assets/img/dive.jpeg" style="width:50%"></td> 
+    <td><img src="/assets/img/stanf.png" style="width:60%"></td> 
+    <td><img src="/assets/img/lei.png" style="width:60%"></td> 
+    <td><img src="/assets/img/dal_logo.png" style="width:60%"></td> 
+    <td><img src="/assets/img/padovalogo.png" style="width:60%"></td> 
+    <td><img src="/assets/img/ut.png" style="width:60%"></td> 
+    <td><img src="/assets/img/dive.jpeg" style="width:60%"></td> 
     <td><img src="/assets/img/br.png" style="width:70%"></td> 
     <td><img src="/assets/img/uab.png" style="width:50%"></td> 
   </tr> 
