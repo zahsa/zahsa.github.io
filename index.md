@@ -27,13 +27,17 @@ layout: homepage
 
 
 <!-- -->
+<h2> Work Experience</h2> 
+
 <table border="0">  
   <tr>
-    <td>Data 4</td>
-    <td>Data 5</td>
-    <td>Data 6</td>
-  </tr>
+    <td><img src="/assets/img/dal_logo.png" style="width:30%"></td> 
+    <td><img src="/assets/img/padovalogo.png" style="width:30%"></td> 
+
+  </tr> 
 </table> 
+
+
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
