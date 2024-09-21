@@ -36,8 +36,9 @@ layout: homepage
     <td><img src="/assets/img/padovalogo.png" style="width:100%"></td> 
     <td><img src="/assets/img/ut.png" style="width:100%"></td> 
     <td><img src="/assets/img/dive.jpeg" style="width:100%"></td> 
-    <td><img src="/assets/img/br.png" style="width:100%"></td> 
-    <td><img src="/assets/img/uab.png" style="width:100%"></td> 
+    <td><img src="/assets/img/uab.png" style="width:90%"></td> 
+     <td><img src="/assets/img/br.png" style="width:120%"></td> 
+
   </tr> 
 </table> 
 
