@@ -26,7 +26,6 @@ layout: homepage
 </ul>
 
 
-<!-- -->
 ## Work Experience 
 
 <table border="0">  
