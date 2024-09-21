@@ -4,7 +4,7 @@ layout: homepage
 
 ## Research Interests  
 
-**Machine Learning:** 
+<!--  **Machine Learning:** -->
  <ul>
   <li>Deep learning</li>
   <li>Transfer learning</li>
