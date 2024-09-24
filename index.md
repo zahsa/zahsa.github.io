@@ -30,10 +30,10 @@ layout: homepage
 
 <table border="0">  
   <tr>
-    <td><img src="/assets/img/stanf.png" style="width:90%"></td> 
-    <td><img src="/assets/img/lei.png" style="width:80%"></td> 
-    <td><img src="/assets/img/dal_logo.png" style="width:80%"></td> 
-    <td><img src="/assets/img/padovalogo.png" style="width:80%"></td> 
+    <td><img src="/assets/img/stanf.png" style="width:80%"></td> 
+    <td><img src="/assets/img/lei.png" style="width:70%"></td> 
+    <td><img src="/assets/img/dal_logo.png" style="width:70%"></td> 
+    <td><img src="/assets/img/padovalogo.png" style="width:70%"></td> 
         <td><img src="/assets/img/br2.png" style="width:80%"></td> 
     <td><img src="/assets/img/ute.jpeg" style="width:90%"></td> 
     <td><img src="/assets/img/dive.jpeg" style="width:80%"></td> 
