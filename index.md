@@ -35,7 +35,7 @@ layout: homepage
     <td><img src="/assets/img/dal_logo.png" style="width:80%"></td> 
     <td><img src="/assets/img/padovalogo.png" style="width:80%"></td> 
         <td><img src="/assets/img/br2.png" style="width:80%"></td> 
-    <td><img src="/assets/img/ute.jpeg" style="width:80%"></td> 
+    <td><img src="/assets/img/ute.jpeg" style="width:90%"></td> 
     <td><img src="/assets/img/dive.jpeg" style="width:80%"></td> 
     <td><img src="/assets/img/uab.png" style="width:70%"></td> 
 
