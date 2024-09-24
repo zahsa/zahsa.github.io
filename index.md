@@ -7,7 +7,6 @@ layout: homepage
 <!--  **Machine Learning:** -->
  <ul>
   <li>Deep learning</li>
-  <li>Transfer learning</li>
   <li>Self-supervised learning</li>
   <li>Reinforcement learning</li>
   <li>Generative learning</li>
