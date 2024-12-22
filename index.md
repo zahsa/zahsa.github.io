@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Research Interests  
+## Research Experience  
 
 <!--  **Machine Learning:** -->
  <ul>
