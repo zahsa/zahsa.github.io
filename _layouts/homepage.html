@@ -111,6 +111,12 @@ body {
        <!-- <i class="fa-brands fa-researchgate"></i> -->
         </a>          
         {% endif %}
+
+       {% if site.external_link %}
+        <a style="margin: 0 0 0 0" href="{{ site.external_link }}">
+          <i class="fa fa-external-link" aria-hidden="true"></i>
+        </a>
+        {% endif %}
           
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
