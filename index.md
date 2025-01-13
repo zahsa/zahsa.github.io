@@ -26,10 +26,10 @@ layout: homepage
 <br>
 
 
-<ul style="margin:0 0 5px;">
+<!-- <ul style="margin:0 0 5px;">
   <li><a href="html_source_file/about.html"><autocolor>Learning</autocolor></a></li>
 </ul>
-<br> 
+<br> -->
 
 ## Work Experience 
 
