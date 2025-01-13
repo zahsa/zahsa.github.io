@@ -26,6 +26,15 @@ layout: homepage
 <br>
 
 
+  <div id="quick-actions" class="columns-2 clear">
+          <div>
+            <h2 id="quick-nav">Quick Navigation</h2>
+            <ul id="quick-nav-list">
+              <li><a href="#lesson-0">Lesson 0: Writing System and Greetings</a></li>
+             <span><a id="link-grammar" href="html_source_file/vis/"><i class="fa">&#xf02d;</i>Grammar Index</a></span>
+            </ul>
+          </div>
+
 ## Work Experience 
 
 <table border="0">  
