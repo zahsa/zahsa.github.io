@@ -26,6 +26,11 @@ layout: homepage
 <br>
 
 
+<ul style="margin:0 0 5px;">
+  <li><a href="html_source_file/vis.html"><autocolor>Learning</autocolor></a></li>
+ 
+</ul>
+<br>
 
 ## Work Experience 
 
