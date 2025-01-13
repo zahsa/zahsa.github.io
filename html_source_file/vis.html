@@ -14,7 +14,8 @@
             <p></p>
             <pre><code>
                 from utils import plot_heatmap
-
+                y_labels = input_arrays_raw
+                plot_heatmap(input_representations, y_labels = y_labels, title = "Embeddings Heatmap")
             </code></pre>
         </li>
         <li>
@@ -25,8 +26,8 @@
             # 2D visualization
             from sklearn.decomposition import PCA
             PCA_model = PCA(n_components = 2)
-            PCA_model.fit(input_array)
-            new_values = PCA_model.transform(input_array)</p>
+            PCA_model.fit(input_representations)
+            new_values = PCA_model.transform(input_representations)</p>
 
     </code></pre>
         </li>
