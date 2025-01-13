@@ -12,13 +12,18 @@
         <li>
             Heatmaps
             <p></p>
+            <pre><code>
+                from utils import plot_heatmap
+
+            </code></pre>
         </li>
         <li>
             PCA
-            <p>from sklearn.decomposition import PCA
+            <p>
 
             <pre><code>
             # 2D visualization
+            from sklearn.decomposition import PCA
             PCA_model = PCA(n_components = 2)
             PCA_model.fit(input_array)
             new_values = PCA_model.transform(input_array)</p>
