@@ -27,7 +27,7 @@ layout: homepage
 
 
 <ul style="margin:0 0 5px;">
-  <li><a href="html_source_file/vis.html"><autocolor>Learning</autocolor></a></li>
+  <li><a href="html_source_file/vis/index.html"><autocolor>Learning</autocolor></a></li>
  
 </ul>
 <br>
