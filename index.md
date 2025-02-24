@@ -15,7 +15,6 @@ layout: homepage
 </ul> 
 
 
-
 <!-- <ul style="margin:0 0 5px;">
   <li><a href="html_source_file/about.html"><autocolor>Learning</autocolor></a></li>
 </ul>
