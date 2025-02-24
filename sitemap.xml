@@ -6,19 +6,7 @@
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
 
-<url>
- <loc>https://zahsa.github.io/About</loc>
- <priority>1.0</priority>
- <lastmod>2024-08-01</lastmod>
- <changefreq>weekly</changefreq>
-</url>
 
-<url>
- <loc>https://zahsa.github.io/ml_notes</loc>
- <priority>1.0</priority>
- <lastmod>2024-08-01</lastmod>
- <changefreq>weekly</changefreq>
-</url>
 
 <url>
  <loc>https://zahsa.github.io//talks/</loc>
@@ -27,11 +15,6 @@
  <changefreq>weekly</changefreq>
 </url>
 
-<url>
- <loc>https://zahsa.github.io//services/</loc>
- <priority>1.0</priority>
- <lastmod>2024-08-01</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+
 
 </urlset>
