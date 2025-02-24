@@ -20,7 +20,7 @@ layout: homepage
   <li><a href="html_source_file/about.html"><autocolor>Learning</autocolor></a></li>
 </ul>
 <br> -->
-<br>
+
 
 ## Review services 
 <ul style="margin:0 0 5px;">
@@ -31,7 +31,7 @@ layout: homepage
   <li><a href="https://www.tandfonline.com/journals/umgd20/"><autocolor>Marine Geodesy </autocolor></a></li>
   <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication </autocolor></a></li>  
 </ul>
-
+<br>
 
 ## Work Experience 
 
