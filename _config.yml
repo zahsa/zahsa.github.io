@@ -66,12 +66,4 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
-include:
-  - sitemap.xml
 
-# _config.yml
-navigation:
-  - name: "Home"
-    link: "/"
-  - name: "Talks"
-    link: "/talks/"
