@@ -15,7 +15,7 @@ title: Talks
 
 
 <p class="large-text">
-  - <a href="/notes/quotes">My collection of quotes</a>
+  - <a href="/notes/quotes">Inspiring quotes</a>
 </p>
 
 <p class="large-text">
