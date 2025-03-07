@@ -64,3 +64,9 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "My Talks"
+    link: "/talks"  # This assumes file.md will be rendered as file.html
