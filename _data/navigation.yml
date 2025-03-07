@@ -1,8 +1,5 @@
 main:
-
-  - title: "Talks"
-    url: /talks/
-
-
   - title: "Home"
     url: /
+  - title: "Talks"
+    url: /talks/
