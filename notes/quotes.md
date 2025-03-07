@@ -34,8 +34,6 @@
 
 "The heart says yes, the mind says no."
 
-"If the brain were so simple we could understand it, we would be so simple we couldn’t." --Lyall Watson
-
 
 "If the brain were so simple we could understand it, we would be so simple we couldn't."--Lyall Watson
 
@@ -43,8 +41,6 @@
 "Others go to bed with their mistresses; I with my ideas." --José Marti
 
  
-"Others go to bed with their ...; I with my ideas." --José Marti
-
 "I know that you believe you understand what you think I said, but I'm not sure you realize that what you heard is not what I meant."--Robert McCloskey (1914-2003), Author of Make Way For Ducklings
 
  
@@ -255,11 +251,6 @@ You see a lot of  pretty women with ugly guys, but you hardly ever see a pretty 
 
 “We seem as a species to be driven by a desire to make meanings: above all, we are surely Homo significants - meaning-makers” -- Daniel Chandler
 
- 
-
-Pasted from <http://www.google.com/#hl=en&sclient=psy-ab&q=i+will+get+in+touch+with+you+soon&oq=I+will+get+in+touch+with+you+&gs_l=hp.1.1.0l2j0i22i30l2.0.0.3.1410.0.0.0.0.0.0.0.0..0.0.les%3B..0.0...1c..5.psy-ab.35Ig9Ultb-Q&pbx=1&bav=on.2,or.r_qf.&bvm=bv.43287494,d.Yms&fp=49cacc0bd6d00e79&biw=1080&bih=549>
-
- 
 
 "Half of what I say is meaningless; but I say it so that the other half may reach you."﻿--Kahlil Gibran
 
@@ -268,11 +259,6 @@ Pasted from <http://www.google.com/#hl=en&sclient=psy-ab&q=i+will+get+in+touch+w
 -- Barack Obama
 
  
-
-Pasted from <https://www.facebook.com/>
-
- 
-
 "Some men see things as they are and say why - I dream things that never were and say why not." --George Bernard Shaw
 
 
