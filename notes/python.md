@@ -1,15 +1,15 @@
 # Tuple
-## Storing multiple items including strings and numerical values
-## Unchangable (immutable), allows duplicates
-## Similar to list, but the elements go inside ()
+- Storing multiple items including strings and numerical values
+- Unchangable (immutable), allows duplicates
+- Similar to list, but the elements go inside ()
 
 # Dictionary
-## key-value pairs, un-ordered, mutable
-## elements to inside {}
+- key-value pairs, un-ordered, mutable
+- elements to inside {}
 
 # Set
-## Unordered, mutable, no duplicates
-## elements go inside {}
+- Unordered, mutable, no duplicates
+- elements go inside {}
 
 # Examples
 my_tuple = tuple(["Max", 28, "Boston"])  
