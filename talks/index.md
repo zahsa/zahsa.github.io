@@ -47,7 +47,7 @@ Workshop, Lancaster, UK </li>
 
 <ul style="margin:0 0 5px;">
   <li>Maritime Anomaly detection, Insights from Vessel Tracking Data: A Workshop on Analyzing and Visualizing Maritime
-Activity, Dalhousie University, Halifax, Canada/li>
+Activity, Dalhousie University, Halifax, Canada</li>
 </ul>
 
 <ul style="margin:0 0 5px;">
