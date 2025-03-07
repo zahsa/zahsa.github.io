@@ -19,7 +19,7 @@ title: Talks
 </p>
 
 <p class="large-text">
-  - <a href="/notes/ns">Neuroscine Notes</a>
+  - <a href="/notes/ns">Neuroscience Notes</a>
 </p>
 
 <p class="large-text">
