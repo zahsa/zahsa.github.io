@@ -2,6 +2,10 @@
 
 "Intelligence is not about knowing the answers but about asking the questions"-- Piero Scaruffi
 
+"In science, the problems you start with, may not be the only ones you solve."
+
+"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" - Isaac Asimov 
+
 "Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible. "--Carl Gustav Jung
 
 "As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality."--Albert Einstein
