@@ -1,6 +1,9 @@
 ---
 layout: homepage
 ---
+<!-- Add this to the <head> section of your index.html or layout file -->
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
 
 ## Research Experience  
 
