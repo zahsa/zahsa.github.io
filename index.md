@@ -33,6 +33,7 @@ layout: homepage
 </ul>
 <br>
 
+
 ## Work Experience 
 
 <table border="0">  
@@ -50,8 +51,8 @@ layout: homepage
 </table> 
 
 
-## My Talks
-Check out my latest talks and presentations on the [Talks](/talks) page.
+[My Talks and Presentations](/talks)
+
 
 
 <!-- Calendly badge widget begin -->
