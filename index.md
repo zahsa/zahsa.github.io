@@ -1,9 +1,8 @@
----
-layout: homepage
----
-<!-- Add this to the <head> section of your index.html or layout file -->
-<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 
+---
+layout: default
+title: Home
+---
 
 ## Research Experience  
 
@@ -52,6 +51,8 @@ layout: homepage
 </table> 
 
 
+## My Talks
+Check out my latest talks and presentations on the [Talks](/talks) page.
 
 
 <!-- Calendly badge widget begin -->
