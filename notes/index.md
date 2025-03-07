@@ -13,6 +13,11 @@ title: Talks
 - [Data Visualization Codes in Python](/notes/vis.html)
 - [Python Notes](/notes/python) -->
 
+
+<p class="large-text">
+  - <a href="/notes/quotes">Quotes</a>
+</p>
+
 <p class="large-text">
   - <a href="/notes/ns">Neuroscine Notes</a>
 </p>
