@@ -319,9 +319,7 @@ It's how we do things around here: we aim high, choose the shallowest move, shak
 
 "The most incomprehensible thing about the world is that it is comprehensible."-- Albert Einstein
 
-"Don't be so humble - you are not that great."
-
-- Golda Meir
+"Don't be so humble - you are not that great."--Golda Meir
 
 "Research is what I'm doing when I don't know what I'm doing." -- Wernher Von Braun
 
@@ -329,7 +327,6 @@ It's how we do things around here: we aim high, choose the shallowest move, shak
 "It's not simply enough to sleep after learning. It turns out you also need to sleep before learning." --Matthew Walker
 
  
-
 You sometimes think you want to disappear, but all you really want is to be found.
 
 You have the power to say, "This is not how my story will end."
