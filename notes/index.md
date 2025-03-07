@@ -26,7 +26,7 @@ title: Talks
   - <a href="/notes/python">Python Notes</a>
 </p>
 
-<p class="large-text">
+<!-- <p class="large-text">
   - <a href="/notes/vis.html">Data Visualization Codes in Python</a>
-</p>
+</p> -->
 
