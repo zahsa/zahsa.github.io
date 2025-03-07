@@ -22,6 +22,6 @@ title: Talks
 </p>
 
 <p class="large-text">
-  - <a href="/notes/vis.html">VData Visualization Codes in Python</a>
+  - <a href="/notes/vis.html">Data Visualization Codes in Python</a>
 </p>
 
