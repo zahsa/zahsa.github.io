@@ -9,7 +9,7 @@ title: Talks
 <!-- <h4 style="margin:0 10px 0;"></h4> -->
 
 
-<! -- - [Neuroscine Notes](/notes/ns)
+<!-- - [Neuroscine Notes](/notes/ns)
 - [Data Visualization Codes in Python](/notes/vis.html)
 - [Python Notes](/notes/python) -->
 
