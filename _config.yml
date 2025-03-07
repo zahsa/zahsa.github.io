@@ -3,6 +3,12 @@ title: Zahra Sadeghi
 position: Machine Learning Scientist
 affiliation: PhD in Artificial Intelligence
 
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "My Talks"
+    link: "/talks"  # This assumes file.md will be rendered as file.html
+
 # email: yourname (at) example.edu
 
 # Search Engine Optimization (SEO)
@@ -65,8 +71,3 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
 
-navigation:
-  - name: "Home"
-    link: "/"
-  - name: "My Talks"
-    link: "/talks"  # This assumes file.md will be rendered as file.html
