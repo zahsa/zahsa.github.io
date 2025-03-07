@@ -8,5 +8,7 @@ title: Talks
 
 <!-- <h4 style="margin:0 10px 0;"></h4> -->
 
+
+- [Neuroscine Notes](/notes/ns.md)
 - [Data Visualization Codes in Python](/notes/vis.html)
-- [Neuroscine Notes](/notes/ns.html)
+- [Python Notes](/notes/python.md)
