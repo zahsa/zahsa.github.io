@@ -33,6 +33,9 @@ layout: homepage
 </ul>
 <br>
 
+<!-- ## My Talks
+Check out my latest talks and presentations on the [Talks](/talks) page. -->
+
 
 ## Work Experience 
 
@@ -51,7 +54,6 @@ layout: homepage
 </table> 
 
 
-[My Talks and Presentations](/talks)
 
 
 
