@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About me</title>
+</head>
+<body>
+      <h1>My Visualization techniques</h1>
+
+    <ul>
+        <li>
+            Heatmaps
+            <p></p>
+            <pre><code>
+                from utils import plot_heatmap
+                y_labels = input_arrays_raw
+                plot_heatmap(input_representations, y_labels = y_labels, title = "Embeddings Heatmap")
+            </code></pre>
+        </li>
+        <li>
+            PCA
+            <p>
+
+            <pre><code>
+            # 2D visualization
+            from sklearn.decomposition import PCA
+            PCA_model = PCA(n_components = 2)
+            PCA_model.fit(input_representations)
+            new_values = PCA_model.transform(input_representations)</p>
+
+    </code></pre>
+        </li>
+</body>
+</html>
