@@ -34,7 +34,7 @@ layout: homepage
 <br>
 
 ## My Talks
-Check out my latest talks and presentations on the [Talks](/talks/index) page. 
+Check out my latest talks and presentations on the [Talks](/talks/) page. 
 
 <!-- ## My Blog
 Check out my notes on various topics on the [Blog](/blog.html) -->
