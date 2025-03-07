@@ -50,21 +50,17 @@ Workshop, Lancaster, UK </li>
 Activity, Dalhousie University, Halifax, Canada/li>
 </ul>
 
-
 <ul style="margin:0 0 5px;">
   <li>Towards a flexible structure for semantic category representation, 1’st Winter School for Neuroscience, IPM</li>
 </ul>
-
 
 <ul style="margin:0 0 5px;">
   <li>Structure discovery in semantic representation, 2’nd Winter School for Neuroscience, Shahid Beheshti University</li>
 </ul>
 
-
 <ul style="margin:0 0 5px;">
   <li>From eye to visual cortex, University of Tehran</li>
 </ul>
-
 
 <ul style="margin:0 0 5px;">
   <li>Developmental learning and occluded object recognition, Brown University, Providence, USA</li>
