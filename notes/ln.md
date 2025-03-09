@@ -26,9 +26,9 @@
 |grep   | search text patterns | grep coffee folder 1 |
 | less  | view the contents one screen at a time |  ls -al /etc  \| less
 
-## MSDOS vs Linux commands
+## MS-DOS vs Linux commands
 
-| MSDOS  |  Linux |
+| MS-DOS  |  Linux |
 | ----   |  ----  |
 |  copy    |   cp     |
 |  move    |   mv     |
