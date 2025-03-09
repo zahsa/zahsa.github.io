@@ -25,6 +25,9 @@
 |man    | view manual pages |   |
 |grep   | search text patterns | grep coffee folder 1 |
 | less  | view the contents one screen at a time |  ls -al /etc  \| less
+| tail | print the last 10 lines of a file | tail <file_name> |
+| head | print the first 10 lines of a file | haed <file_name> |
+| locate | find locations of files on a system | locate finger |
 
 ## MS-DOS vs Linux commands
 
