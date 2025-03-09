@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talks
+title: Blog
 ---
 <!-- <a href="notes/ns/">Neuroscience</a> -->
 
