@@ -24,7 +24,7 @@
 |rm     | remove file|  rm folder1 |
 |man    | view manual pages |   |
 |grep   | search text patterns | grep coffee folder 1 |
-| less  | view the contents one screen at a time |  ls -al /etc  | less
+| less  | view the contents one screen at a time |  ls -al /etc  \| less
 
 ## MSDOS vs Linux commands
 
@@ -58,10 +58,10 @@
 | au, wav | audio |
 |xpm, jpg, gif, png | image |
 |rpm | installation files|
-|conf | configuration files|
+|conf | configuration file|
 |h | header file |
 |c, cpp | C files|
 |so | shared object|
-|o | objec files|
+|o | object files|
 
 
