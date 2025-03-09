@@ -22,9 +22,13 @@ title: Talks
   - <a href="/notes/ns">Neuroscience Notes</a>
 </p>
 
-<!-- <p class="large-text">
-  - <a href="/notes/python">Python Notes</a>
-</p> -->
+<p class="large-text">
+  - <a href="/notes/ns">Linux and MSDOS commands </a>
+</p> 
+
+<p class="large-text">
+  - <a href="/notes/python">List,Dictionary,Set in Python </a>
+</p> 
 
 <!-- <p class="large-text">
   - <a href="/notes/vis.html">Data Visualization Codes in Python</a>
