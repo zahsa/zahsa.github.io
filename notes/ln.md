@@ -12,7 +12,7 @@
 |ls      | list all files and directories |   |
 |ls -a  | display all contents of the directory, including hidden files|   |
 |ls -l  | display a long list with detailed information   |   |
-|ls -a --color | Show directories in color |   |
+|--color | display in color |  ls -a --color  |
 |ls -r | display files in reveresed order           |   |
 | ls -s | display sorted files by size, from largest to smallest | |
 |cp     | copy | cp folder1 folder2 |
