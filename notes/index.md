@@ -15,7 +15,7 @@ title: Talks
 
 
 <p class="large-text">
-  - <a href="/notes/quotes">Inspiring quotes</a>
+  - <a href="/notes/quotes">Inspiring Quotes</a>
 </p>
 
 <p class="large-text">
