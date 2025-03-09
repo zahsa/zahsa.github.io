@@ -48,19 +48,20 @@
 |  ren   | mv   |
 
 ## File types by extension
+
 | Extension    |  File type |
-| -----        | -----      |           
+| -----        |   -----    |           
 |z, gz, tar, tgz  | compressed file |
-| .txt | text file |
-| .html / .htm |  |
-|.ps  |  ready to print |
-| .au, .wav | audio |
-|.xpm, .jpg, .gif, .png | image |
-|.rpm | installation files|
-|.conf | configuration files|
-|.h | header file |
-|.c, .cpp | C files|
-|.so | shared object|
-|.o | objec files|
+| txt | text file |
+| html, htm |  |
+| ps  |  ready to print |
+| au, wav | audio |
+|xpm, jpg, gif, png | image |
+|rpm | installation files|
+|conf | configuration files|
+|h | header file |
+|c, cpp | C files|
+|so | shared object|
+|o | objec files|
 
 
