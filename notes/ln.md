@@ -13,7 +13,7 @@
 |ls -a  | display all contents of the directory, including hidden files|   |
 |ls -l  | display a long list with detailed information   |   |
 |--color | display in color |  ls -a --color  |
-|ls -r | display files in reveresed order           |   |
+|ls -r | sort directories and files in the reverse order         |   |
 | ls -s | display sorted files by size, from largest to smallest | |
 |cp     | copy | cp folder1 folder2 |
 |cat    | read, display and concatenate text files|  |
