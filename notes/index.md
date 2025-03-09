@@ -23,7 +23,7 @@ title: Talks
 </p>
 
 <p class="large-text">
-  - <a href="/notes/ns">Linux and MSDOS commands </a>
+  - <a href="/notes/ns">Linux and MSDOS Command Guide </a>
 </p> 
 
 <p class="large-text">
