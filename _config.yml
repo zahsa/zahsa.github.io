@@ -29,7 +29,7 @@ slideshare: https://www.slideshare.net/zahsa/presentations/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: https://www.dropbox.com/scl/fi/7qatxljkgqlvokb2dtgu8/zd1.png?rlkey=xo0ghiroou37lvxxzk3u7hmas&st=e0x8ja4u&dl=0
+avatar: ./assets/img/zd1.png 
 favicon: ./assets/img/favicon2.png
 favicon_dark: ./assets/img/favicon2.png
 background-image: ./assets/img/avator.png
