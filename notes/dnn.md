@@ -109,7 +109,7 @@ Total DOF in 2D:
 
 - 3D Affine Transformation:
 
-    Linear Transformation (Rotation, Scaling, Shearing): 9 DOF (matrix AA has 9 elements: a_{11},a_{12},…,a_{33},a_{11}​,a_{12}​,…,a_{33}​).
+    Linear Transformation (Rotation, Scaling, Shearing): 9 DOF (matrix AA has 9 elements: $a_{11}$,a$_{12}$,…,$a_{33}$,$a_{11}$​,$a_{12}$​,…,$a_{33}$​).
 
     Translation: 3 DOF (translation in x, y, and z directions, $t_x$​, $t_y$​, and $t_z$​).
 
