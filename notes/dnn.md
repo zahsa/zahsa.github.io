@@ -1,4 +1,6 @@
-# Translation
+# Geometric Transformations
+
+## Translation
 - A translation transformation is a geometric transformation that moves every point of an object or space by the same distance in a specified direction. It is one of the simplest and most fundamental types of transformations, commonly used in computer graphics, robotics, physics, and mathematics.
 - A 2D translation has 2 degrees of freedom (one for the x-direction and one for the y-direction).
 - A 3D translation has 3 degrees of freedom (one for the x-direction, one for the y-direction, and one for the z-direction).
@@ -26,7 +28,7 @@ y  \\
 \end{bmatrix}  
 $$
 
-## Euclidean 
+# Euclidean 
 - A Euclidean transformation is a geometric transformation that preserves the shape, size, and angles of an object. It includes rotation and translation but does not include scaling. It combines rotation, and translation into a single transformation.
 - 2D Euclidean Transformation:
 
@@ -46,6 +48,7 @@ Total DOF in 2D:
 Total DOF in 3D:
 3+3=6 degrees of freedom.
 
+- Invariants: All (length, angle, ratio of lengths, parallelism, includes cross ratio)
 $$ 
 \begin{bmatrix}
 x' \\ 
@@ -64,7 +67,7 @@ y  \\
 \end{bmatrix}  
 $$
 
-## Similarity 
+# Similarity 
 - A similarity transformation is a geometric transformation that preserves the shape of an object but may alter its size, orientation, and position. It combines scaling, rotation, and translation into a single transformation.
 - 2D Similarity Transformation:
 
@@ -77,6 +80,8 @@ $$
 Total DOF in 2D:
 1+1+2=41+1+2=4 degrees of freedom.
 
+- Invariants: All - length
+- 
 $$ 
 \begin{bmatrix}
 x' \\ 
@@ -95,7 +100,7 @@ y  \\
 \end{bmatrix}  
 $$
 
-## Affine (6 dof)
+# Affine (6 dof)
 -An affine transformation is a geometric transformation that preserves collinearity (points lying on a straight line remain on a straight line) and ratios of distances (the midpoint of a line segment remains the midpoint after transformation). 
 -  It includes translation, rotation, scaling, and shearing.
 - 2D Affine Transformation:
@@ -116,6 +121,7 @@ Total DOF in 2D:
 Total DOF in 3D:
 9+3=12 degrees of freedom.
 
+- Invariants: All - (length, angle, ratio of length)
 
 $$ 
 \begin{bmatrix}
@@ -135,7 +141,7 @@ y  \\
 \end{bmatrix}  
 $$
 
-## Isometry 
+# Isometry 
 - An isometry is a geometric transformation that preserves the distances between all pairs of points. In other words, it is a distance-preserving transformation. 
 - Isometries include translations, rotations, and reflections, but they do not include scaling or shearing.
 -  2D Isometry:
@@ -173,3 +179,6 @@ y  \\
 1 
 \end{bmatrix}  
 $$
+
+# Projective
+$$ x' = H.x $$
