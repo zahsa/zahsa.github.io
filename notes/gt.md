@@ -185,9 +185,11 @@ y  \\
 \end{bmatrix}  
 $$
 
-\epsilon=\mp1
+$\epsilon=\mp1$
 
 # Projective
 $$ x' = H.x $$
 
 -Preserves: Concurrency, colinearity, order of contact (intersection, tangency, inflection, ...), cross ratio
+
+# Projective -> Affine -> Similarity -> Isometry
