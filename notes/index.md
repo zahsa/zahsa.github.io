@@ -34,6 +34,9 @@ title: Blog
   - <a href="/notes/gt">Geometric Transformations </a>
 </p> 
 
+<p class="large-text">
+  - <a href="/notes/dn">CNNs </a>
+</p> 
 <!-- <p class="large-text">
   - <a href="/notes/vis.html">Data Visualization Codes in Python</a>
 </p> -->
