@@ -6,7 +6,7 @@
 # Set
 - Unordered, mutable, no duplicates
 - elements go inside {}
-- Sets are created using curly braces {} or the set() constructor.
+- can be created using curly braces {} or the set() constructor.
 
   
 # List
@@ -31,9 +31,10 @@ Methods:
 
 # Tuple
 - immutable (once a tuple is created, its elements cannot be changed, added, or removed), ordered
-- Storing multiple items including strings and numerical values
+- can hold elements of different data types, such as integers, strings, and even other tuples or lists.
 - Unchangable (immutable), allows duplicates
 - elements go inside ()
+- can be created using parentheses () or the tuple() constructor.
 
 Methods:
 - count(value): Counts occurrences of value in the tuple.
@@ -42,7 +43,8 @@ Methods:
 
 # Examples
 
-my_tuple = tuple(["Max", 28, "Boston"])  
+my_tuple_1 = tuple(["Max", 28, "Boston"]) 
+my_tuple_2 = (1, 2, 3)
 my_dict = dict(name = "Mary", age = 27)  
 my_set_1 = {1, 2, 3, 3, 4}
 my_set_2 = set([1,2,3])  
