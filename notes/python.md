@@ -10,7 +10,7 @@
 # List
 - Ordered (the order in which the elements are defined is preserved), mutable
 - Used when the data might need to be modified (e.g., adding/removing items).
-
+- elements go inside []
 - Lists are better suited for tasks that involve iteration and changing data over time.
 
 Methods:
@@ -31,7 +31,7 @@ Methods:
 - immutable (once a tuple is created, its elements cannot be changed, added, or removed), ordered
 - Storing multiple items including strings and numerical values
 - Unchangable (immutable), allows duplicates
-- Similar to list, but the elements go inside ()
+- elements go inside ()
 
 Methods:
 - count(value): Counts occurrences of value in the tuple.
