@@ -44,9 +44,15 @@ Methods:
 # Examples
 
 my_tuple_1 = tuple(["Max", 28, "Boston"]) 
+
 my_tuple_2 = (1, 2, 3)
+
 my_dict = dict(name = "Mary", age = 27)  
+
 my_set_1 = {1, 2, 3, 3, 4}
+
 my_set_2 = set([1,2,3])  
+
 my_set_3 = set("hello")  
+
 my_list = [1, 2, 3]
