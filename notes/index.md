@@ -27,7 +27,7 @@ title: Blog
 </p> 
 
 <p class="large-text">
-  - <a href="/notes/python">List,Dictionary,Set in Python </a>
+  - <a href="/notes/python">List,Tuple, Dictionary, Set in Python </a>
 </p> 
 
 <p class="large-text">
