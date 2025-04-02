@@ -6,7 +6,9 @@
 # Set
 - Unordered, mutable, no duplicates
 - elements go inside {}
+- Sets are created using curly braces {} or the set() constructor.
 
+  
 # List
 - Ordered (the order in which the elements are defined is preserved), mutable
 - Used when the data might need to be modified (e.g., adding/removing items).
@@ -39,8 +41,10 @@ Methods:
 - index(value): Returns the index of the first occurrence of value.
 
 # Examples
+
 my_tuple = tuple(["Max", 28, "Boston"])  
 my_dict = dict(name = "Mary", age = 27)  
-my_set_1 = set([1,2,3])  
-my_set_2 = set("hello")  
+my_set_1 = {1, 2, 3, 3, 4}
+my_set_2 = set([1,2,3])  
+my_set_3 = set("hello")  
 my_list = [1, 2, 3]
