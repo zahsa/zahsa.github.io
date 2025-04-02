@@ -33,7 +33,8 @@ Methods:
 
 Methods:
 - count(value): Counts occurrences of value in the tuple.
- -index(value): Returns the index of the first occurrence of value.
+  
+- index(value): Returns the index of the first occurrence of value.
 
 # Examples
 my_tuple = tuple(["Max", 28, "Boston"])  
