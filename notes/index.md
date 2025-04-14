@@ -2,7 +2,6 @@
 layout: default
 title: Blog
 ---
-
 <!-- <h1 id="invited-talks"></h1> -->
 
 <h2 style="margin: 60px 0px 10px;">SciComm Topics</h2>
@@ -17,8 +16,6 @@ title: Blog
 <!-- - [Neuroscine Notes](/notes/ns)
 - [Data Visualization Codes in Python](/notes/vis.html)
 - [Python Notes](/notes/python) -->
-
-
 
 
 <p class="large-text">
