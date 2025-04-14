@@ -37,7 +37,7 @@ layout: homepage
 Check out my latest talks and presentations on the [Talks](/talks/) page. 
 
 ## My Blog
-Check out my notes on various topics on the [Blog](/notes/) page.
+Check out my notes on various topics on my [SciComm](/notes/) page.
 
 ## Work Experience 
 
