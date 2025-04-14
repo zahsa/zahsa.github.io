@@ -2,6 +2,11 @@
 layout: default
 title: Blog
 ---
+
+<!-- <h1 id="invited-talks"></h1> -->
+
+<h2 style="margin: 60px 0px 10px;">SciComm Topics</h2>
+
 <!-- <a href="notes/ns/">Neuroscience</a> -->
 
 <!-- <a href="notes/vis/">Visualization</a> -->
@@ -14,9 +19,7 @@ title: Blog
 - [Python Notes](/notes/python) -->
 
 
-<p class="large-text">
-  - <a href="/notes/quotes">Inspiring Quotes</a>
-</p>
+
 
 <p class="large-text">
   - <a href="/notes/ns">Neuroscience Glossary</a>
@@ -41,3 +44,6 @@ title: Blog
   - <a href="/notes/vis.html">Data Visualization Codes in Python</a>
 </p> -->
 
+<p class="large-text">
+  - <a href="/notes/quotes">Inspiring Quotes</a>
+</p>
