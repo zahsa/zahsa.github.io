@@ -42,5 +42,10 @@ title: Blog
 </p> -->
 
 <p class="large-text">
+  - <a href="/notes/resp">Responsible AI </a>
+</p> 
+
+<p class="large-text">
   - <a href="/notes/quotes">Inspiring Quotes</a>
 </p>
+
