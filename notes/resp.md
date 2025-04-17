@@ -39,7 +39,7 @@ Responsible AI refers to the development and use of artificial intelligence syst
         AI should be designed and used in ways that are accessible and beneficial to all people.
 
 
-## some real-world examples of Responsible AI in action, across different industries:
+## Some real-world examples of Responsible AI in action, across different industries:
 
 ### Healthcare – IBM Watson Health
 
