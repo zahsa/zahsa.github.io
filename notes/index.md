@@ -35,6 +35,10 @@ title: Blog
 </p> 
 
 <p class="large-text">
+  - <a href="/notes/scal">Scalable AI </a>
+</p> 
+
+<p class="large-text">
   - <a href="/notes/dn">CNNs </a>
 </p> 
 <!-- <p class="large-text">
