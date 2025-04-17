@@ -1,4 +1,4 @@
-## Scalable AI?
+## Scalable AI
 
 Scalable AI refers to artificial intelligence systems that can grow in capacity, performance, and complexity as needed—without requiring a complete redesign or breakdown.
 
