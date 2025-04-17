@@ -33,9 +33,9 @@ layout: homepage
 </ul>
 <br>
 
-### [Talks](/talks/)
+## [Talks](/talks/)
 
-### [SciComm](/notes/) 
+## [SciComm](/notes/) 
 
 ## Work Experience 
 
