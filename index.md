@@ -23,6 +23,7 @@ layout: homepage
 
 
 ## Review services 
+I have provided manuscript review services for the following academic journals and conferences:
 <ul style="margin:0 0 5px;">
   <li><a href="https://openreview.net/"><autocolor>ACL Openreview </autocolor></a></li>
   <li><a href="http://ojs.bonviewpress.com/index.php/JCCE/index"><autocolor>Journal of Computational and Cognitive Engineering </autocolor></a></li>
@@ -33,9 +34,17 @@ layout: homepage
 </ul>
 <br>
 
-## [Talks](/talks/)
+## My Talks 
+Check out my talks and presentations on [Talks](/talks/) page.
 
-## [SciComm](/notes/) 
+## My Science Communication Blog
+I write about diverse topics on my [SciComm](/notes/) page.
+
+## Consultation
+I offer consultation and mentoring in Machine Learning and Artificial Intelligence
+This consultation is suitable for:
+- Students or researchers looking to define a machine learning course project, thesis, or scientific paper, and who would like step-by-step guidance for research and development
+- Business professionals interested in applying machine learning methods to automate their product pipeline.
 
 ## Work Experience 
 
@@ -52,7 +61,6 @@ layout: homepage
 
   </tr> 
 </table> 
-
 
 
 
