@@ -32,7 +32,7 @@ I have provided manuscript review services for the following journals and confer
   <li><a href="https://www.tandfonline.com/journals/umgd20/"><autocolor>Marine Geodesy </autocolor></a></li>
   <li><a href="http://jist.ir/"><autocolor>Journal of Information Systems and Telecommunication </autocolor></a></li>  
 </ul>
-<!--<br>-->
+<br>
 
 ## My Talks 
 Check out my talks and presentations on [Talks](/talks/) page.
