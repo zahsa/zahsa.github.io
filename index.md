@@ -23,7 +23,7 @@ layout: homepage
 
 
 ## Review services 
-I have provided manuscript review services for the following academic journals and conferences:
+I have provided manuscript review services for the following journals and conferences:
 <ul style="margin:0 0 5px;">
   <li><a href="https://openreview.net/"><autocolor>ACL Openreview </autocolor></a></li>
   <li><a href="http://ojs.bonviewpress.com/index.php/JCCE/index"><autocolor>Journal of Computational and Cognitive Engineering </autocolor></a></li>
