@@ -48,7 +48,7 @@ This consultation is suitable for:
 - Business professionals interested in applying machine learning methods to automate their product pipeline.
 <br>
 
-
+<br>
 ## Work Experience 
 
 <table border="0">  
