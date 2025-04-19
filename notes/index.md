@@ -2,9 +2,10 @@
 layout: default
 title: Blog
 ---
+<h2 style="margin: 60px 0px 10px;">SciComm Topics</h2>
+
 <!-- <h1 id="invited-talks"></h1> -->
 
-<h2 style="margin: 60px 0px 10px;">SciComm Topics</h2>
 
 <!-- <a href="notes/ns/">Neuroscience</a> -->
 
