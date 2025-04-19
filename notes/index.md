@@ -17,37 +17,37 @@ title: Blog
 
 
 <p class="large-text">
-  - <a href="/notes/ns">Neuroscience Glossary</a>
+  - <a href="/notes/ns" style="font-size: 24px;">Neuroscience Glossary</a>
 </p>
 
 <p class="large-text">
-  - <a href="/notes/ln">Linux and MSDOS Command Guide </a>
+  - <a href="/notes/ln" style="font-size: 24px;">Linux and MSDOS Command Guide </a>
 </p> 
 
 <p class="large-text">
-  - <a href="/notes/python">List,Tuple, Dictionary, Set in Python </a>
+  - <a href="/notes/python" style="font-size: 24px;">List,Tuple, Dictionary, Set in Python </a>
 </p> 
 
 <p class="large-text">
-  - <a href="/notes/gt">Geometric Transformations </a>
+  - <a href="/notes/gt" style="font-size: 24px;">Geometric Transformations </a>
 </p> 
 
 <p class="large-text">
-  - <a href="/notes/scal">Scalable AI </a>
+  - <a href="/notes/scal" style="font-size: 24px;">Scalable AI </a>
 </p> 
 
 <p class="large-text">
-  - <a href="/notes/dn">CNNs </a>
+  - <a href="/notes/dn" style="font-size: 24px;">CNNs </a>
 </p> 
 <!-- <p class="large-text">
   - <a href="/notes/vis.html">Data Visualization Codes in Python</a>
 </p> -->
 
 <p class="large-text">
-  - <a href="/notes/resp">Responsible AI </a>
+  - <a href="/notes/resp" style="font-size: 24px;">Responsible AI </a>
 </p> 
 
 <p class="large-text">
-  - <a href="/notes/quotes">Inspiring Quotes</a>
+  - <a href="/notes/quotes" style="font-size: 24px;">Inspiring Quotes</a>
 </p>
 
