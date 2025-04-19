@@ -45,6 +45,8 @@ I offer consultation and mentoring in Machine Learning and Artificial Intelligen
 This consultation is suitable for:
 - Students or researchers looking to define a machine learning course project, thesis, or scientific paper, and who would like step-by-step guidance for research and development
 - Business professionals interested in applying machine learning methods to automate their product pipeline.
+<br>
+
 
 ## Work Experience 
 
