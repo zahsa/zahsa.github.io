@@ -21,6 +21,11 @@ layout: homepage
 </ul>
 <br> -->
 
+## Talks 
+Check out my talks and presentations on [Talks](/talks/) page.
+
+## Science Communication Blog
+I write about diverse topics on my [SciComm](/notes/) page.
 
 ## Review services 
 I have provided manuscript review services for the following journals and conferences:
@@ -34,13 +39,6 @@ I have provided manuscript review services for the following journals and confer
 </ul>
 <br>
 
-## My Talks 
-Check out my talks and presentations on [Talks](/talks/) page.
-
-## My Science Communication Blog
-I write about diverse topics on my [SciComm](/notes/) page.
-
-<br>
 
 ## Consultation
 I offer consultation and mentoring in Machine Learning and Artificial Intelligence
@@ -50,6 +48,7 @@ This consultation is suitable for:
 <br>
 
 <br>
+
 ## Work Experience 
 
 <table border="0">  
