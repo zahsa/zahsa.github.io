@@ -4,9 +4,6 @@ title: Blog
 ---
 <h1 style="margin: 60px 0px 10px;">SciComm Topics</h1>
 
-<h1 SciComm Topics</h1> 
-
-
 <!-- <a href="notes/ns/">Neuroscience</a> -->
 
 <!-- <a href="notes/vis/">Visualization</a> -->
