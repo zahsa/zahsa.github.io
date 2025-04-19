@@ -40,6 +40,7 @@ Check out my talks and presentations on [Talks](/talks/) page.
 ## My Science Communication Blog
 I write about diverse topics on my [SciComm](/notes/) page.
 
+<br>
 ## Consultation
 I offer consultation and mentoring in Machine Learning and Artificial Intelligence
 This consultation is suitable for:
