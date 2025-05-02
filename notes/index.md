@@ -48,6 +48,10 @@ title: Blog
 </p> 
 
 <p class="large-text">
+  - <a href="/notes/as" style="font-size: 24px;">AI Safety </a>
+</p> 
+
+<p class="large-text">
   - <a href="/notes/quotes" style="font-size: 24px;">Inspiring Quotes</a>
 </p>
 
