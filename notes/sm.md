@@ -1,5 +1,5 @@
 ## Gaussian Sampling
-Sampling $x$ from $N(\mu,\sigma^{2})$ is calculated as:
+Sampling $$x$$ from $$N(\mu,\sigma^{2})$$ is calculated as:
 
 $$
 \begin{align*}
