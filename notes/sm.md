@@ -1,3 +1,3 @@
 ## Sampling
 The variance of a random variable X is:
-$Var(X) = E(X-E(X))^{2}$
+$$ Var(X) = E(X-E(X))^{2} $$
