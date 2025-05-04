@@ -11,7 +11,7 @@ $$
 
 This is because:
 
-Mean of $$Y$$ is:
+Mean of $$Y=aX$$ is:
 
 $$
 E(Y)=E(aX) = a.E(X)
