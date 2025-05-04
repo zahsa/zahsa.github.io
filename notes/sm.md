@@ -11,13 +11,13 @@ $$
 
 This is because:
 
-Mean of $Y$ is:
+Mean of $$Y$$ is:
 
 $$
 E(Y)=E(aX) = a.E(X)
 $$
 
-Whereas, Variance of $Y$ is:
+Whereas, Variance of $$Y$$ is:
 
 $$
 Var(Y) = a^{2}.Var(X)
@@ -25,20 +25,20 @@ $$
 
 Why?
 
-The variance of a random variable $X$ is:
+The variance of a random variable $$X$$ is:
 
 $$ 
 Var(X) = E(X-E(X))^{2} 
 $$
 
 
-Suppose we define a new variable by scaling $X$:
+Suppose we define a new variable by scaling $$X$$:
 
 $$
 Y = aX
 $$
 
-Then the variance of $Y$ is:
+Then the variance of $$Y$$ is:
 
 $$
 \begin{align*}
