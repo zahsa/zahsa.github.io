@@ -33,6 +33,10 @@ title: Blog
 </p> 
 
 <p class="large-text">
+  - <a href="/notes/sm" style="font-size: 24px;">Gaussian Sampling </a>
+</p> 
+
+<p class="large-text">
   - <a href="/notes/scal" style="font-size: 24px;">Scalable AI </a>
 </p> 
 
