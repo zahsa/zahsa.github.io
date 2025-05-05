@@ -61,6 +61,9 @@ Activity, Dalhousie University, Canada</li>
 <ul style="margin:0 0 5px;">
   <li>From eye to visual cortex, University of Tehran</li>
 </ul>
+<ul style="margin:0 0 5px;">
+  <li>Interval Programming based on GA and PSO Algorithms, 2'nd Joint Congress on Fuzzy and Intelligent System, Malek-Ashtar University of Technology</li>
+</ul>
 
 <ul style="margin:0 0 5px;">
   <li>Developmental learning and occluded object recognition, Brown University, Providence, USA</li>
