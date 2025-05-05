@@ -15,6 +15,9 @@ title: Blog
 - [Data Visualization Codes in Python](/notes/vis.html)
 - [Python Notes](/notes/python) -->
 
+<p class="large-text">
+  - <a href="/notes/quotes" style="font-size: 24px;">Inspiring Quotes</a>
+</p>
 
 <p class="large-text">
   - <a href="/notes/ns" style="font-size: 24px;">Neuroscience Glossary</a>
@@ -55,7 +58,7 @@ title: Blog
   - <a href="/notes/as" style="font-size: 24px;">AI Safety </a>
 </p> 
 
-<p class="large-text">
-  - <a href="/notes/quotes" style="font-size: 24px;">Inspiring Quotes</a>
-</p>
 
+<p class="large-text">
+  - <a href="/notes/gans" style="font-size: 24px;">Problems with GANs </a>
+</p> 
