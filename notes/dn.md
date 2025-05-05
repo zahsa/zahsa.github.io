@@ -2,7 +2,7 @@
 - ~138 milion parameters
 - all conv layers are of size 3*3
 - all max pool layers are of size 2*2, stride 2
-- idea: all variables sized convolutional kernels used in AlexNet can be replicated by making use of multiple 3*3 kernels
+- idea: all variable sized convolutional kernels used in AlexNet can be replicated by making use of multiple 3*3 kernels
 
 
 ## ResNet-18
