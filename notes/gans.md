@@ -1,4 +1,4 @@
-## Issues with Genrative Advarsarial Networks (GANs)
+## Problems with Genrative Advarsarial Networks (GANs)
 
 
 1. Training Instability
