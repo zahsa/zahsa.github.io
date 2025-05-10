@@ -62,3 +62,7 @@ title: Blog
 <p class="large-text">
   - <a href="/notes/gans" style="font-size: 24px;">Problems with GANs </a>
 </p> 
+
+<p class="large-text">
+  - <a href="/notes/dp" style="font-size: 24px;">Drop-out </a>
+</p> 
