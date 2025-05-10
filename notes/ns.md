@@ -52,3 +52,19 @@ from the Greek word for “glue,” giving the impression that the main function
 - understanding language, visual functions, recognizing faces  
 Reference:
 Neuroscience: Exploring the Brain [Bear, Mark F., Connors, Barry W., Paradiso, Michael A.]
+
+## Hubel & Wiesel (1965)
+They discovered orientation-tuned cells which response to bar of light at specified angle.
+
+## on-center, off-surround receptive fields
+These cells respond when center of cell is stimulated 
+
+## off-center, on-surround receptive fileds
+These cells repond which sorrounding area is activated
+
+## Examples
+Oriented RF: V1
+Center-surround RF: LGN and retian
+
+Retina --> LGN --> V1
+number of LGN cells converge to a single v1 cell
