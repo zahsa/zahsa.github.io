@@ -63,8 +63,8 @@ These cells respond when center of cell is stimulated
 These cells repond which sorrounding area is activated
 
 ## Examples
-Oriented RF: V1
-Center-surround RF: LGN and retian
+- Oriented RF: V1
+- Center-surround RF: LGN and retian
 
-Retina --> LGN --> V1
-number of LGN cells converge to a single v1 cell
+- Retina --> LGN --> V1
+- number of LGN cells converge to a single v1 cell
