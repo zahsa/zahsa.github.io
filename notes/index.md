@@ -24,7 +24,7 @@ title: Blog
 </p>
 
 <p class="large-text">
-  - <a href="/notes/cns" style="font-size: 24px;">Computational Neuroscience</a>
+  - <a href="/notes/ns" style="font-size: 24px;">Computational Neuroscience</a>
 </p>
 
 <p class="large-text">
