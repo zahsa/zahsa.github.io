@@ -1,7 +1,7 @@
 ## Computational Neuroscience
 
 ## Hubel & Wiesel (1965)
-They discovered orientation-tuned cells which response to bar of light at specified angle.
+They discovered orientation-tuned cells which response to bar of light at specified angles.
 
 ## on-center, off-surround receptive fields
 These cells respond when center of cell is stimulated 
