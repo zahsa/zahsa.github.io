@@ -66,3 +66,7 @@ title: Blog
 <p class="large-text">
   - <a href="/notes/dp" style="font-size: 24px;">Drop-out </a>
 </p> 
+
+<p class="large-text">
+  - <a href="/notes/vd" style="font-size: 24px;">Validation </a>
+</p> 
