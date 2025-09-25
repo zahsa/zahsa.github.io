@@ -21,6 +21,9 @@ layout: homepage
 </ul>
 <br> -->
 
+# LNM
+[LNM](/lmn/) page.
+
 ## Talks 
 Check out my talks and presentations on [Talks](/talks/) page.
 
