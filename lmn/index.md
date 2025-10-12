@@ -9,5 +9,5 @@ title: Talks
 <h2 style="margin: 60px 0px 10px;">Lectures in Machine Learning</h2>
   
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.slideshare.net/slideshow/cross-cutting-structure-for-semantic-representation/274710928" target="_blank">Lecture 1</a></li>
+  <li><a href="https://www.slideshare.net/slideshow/ml-lecture-1-decision-tree-and-random-forest-pdf/283765890" target="_blank">Decision Tree and Random Forest</a></li>
 </ul>
