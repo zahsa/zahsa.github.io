@@ -26,6 +26,7 @@ layout: homepage
 
 ## Talks and Presentations
 [Talks](/talks/)
+<br>
 [Slides](/slide/)
 
 ## Science Communication Blog
