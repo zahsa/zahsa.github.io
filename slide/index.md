@@ -2,11 +2,11 @@
 layout: default
 title: Slides
 ---
+<h2 style="margin: 60px 0px 10px;">Slides</h2>
+
 <!-- # Invited Talks -->
 
 <!-- <h1 id="Lecture Notes in Machine Learning"></h1> -->
-
-<h2 style="margin: 60px 0px 10px;">Slides</h2>
   
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/interval-programming/52767001" target="_blank">Interval Programming</a></li>
