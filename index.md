@@ -24,8 +24,9 @@ layout: homepage
 <!-- # My Lectures in Machine Learning -->
 <!--[LNM](/lmn/) page. -->
 
-## Talks 
-Check out my talks and presentations on [Talks](/talks/) page.
+## Talks and Presentations
+[Talks](/talks/)
+[Slides](/slide/)
 
 ## Science Communication Blog
 I write about diverse topics on my [SciComm](/notes/) page.
