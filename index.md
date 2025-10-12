@@ -21,8 +21,8 @@ layout: homepage
 </ul>
 <br> -->
 
-<!-- # My Lectures in Machine Learning -->
-<!--[LNM](/lmn/) page. -->
+## Lectures in Machine Learning 
+[LNM](/lmn/)
 
 ## Talks and Presentations
 [Talks](/talks/)
