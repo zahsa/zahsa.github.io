@@ -20,3 +20,9 @@ title: Talks
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/machine-lectures-bayes-classifiers-pdf/283766009" target="_blank">Bayes Classification</a></li>
 </ul>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lecture-optimization-part1-pdf/283766029" target="_blank">Optimization - part 1</a></li>
+</ul>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-optimization-part-2-pdf/283766046" target="_blank">Optimization - part 2</a></li>
+</ul>
