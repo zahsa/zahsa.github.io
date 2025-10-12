@@ -22,7 +22,7 @@ layout: homepage
 <br> -->
 
 ## Lectures in Machine Learning 
-[LNM](/lmn/)
+[Lectures](/lmn/)
 
 ## Talks and Presentations
 [Talks](/talks/)
