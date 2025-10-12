@@ -19,3 +19,15 @@ title: Slides
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/attention-mechanism-in-brain-and-deep-neural-networkrgpdf/259489334" target="_blank">Visual Attention</a></li>
 </ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/qsa3pdf-259624497/259624497" target="_blank">Quality Assurance in Modern Sofware Development</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/cross-cutting-structure-for-semantic-representation/274710928" target="_blank">Cross-cutting Structure for Semantic Representation</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/bluetooth-technoloty/54228187" target="_blank">Bluetooth Technology</a></li>
+</ul>
