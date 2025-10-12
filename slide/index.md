@@ -31,3 +31,16 @@ title: Slides
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/bluetooth-technoloty/54228187" target="_blank">Bluetooth Technology</a></li>
 </ul>
+
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/penalty-function/52091339" target="_blank">Penalty Function Methods</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/semantic-search-with-semantic-web/52767219" target="_blank">Semantic Search with Semantic Web</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/semantic-search-with-semantic-web/52767219" target="_blank">Semantic Search with Semantic Web</a></li>
+</ul>
