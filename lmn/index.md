@@ -25,3 +25,7 @@ title: Talks
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-optimization-part-2-pdf/283766046" target="_blank">Optimization - part 2</a></li>
 </ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-exploratory-data-analysis/284093031" target="_blank">Exploratory Data Analysis</a></li>
+</ul>
