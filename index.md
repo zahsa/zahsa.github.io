@@ -21,9 +21,6 @@ layout: homepage
 </ul>
 <br> -->
 
-## Lectures in Machine Learning 
-[Lectures](/lmn/)
-
 ## Talks and Presentations
 [Talks](/talks/)
 <br>
@@ -31,6 +28,9 @@ layout: homepage
 
 ## Science Communication Blog
 I write about diverse topics on my [SciComm](/notes/) page.
+
+## Lectures in Machine Learning 
+[Lectures](/lmn/)
 
 ## Review services 
 I have provided manuscript review services for the following journals and conferences:
