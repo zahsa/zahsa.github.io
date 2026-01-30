@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Slides
+title: Slides from My Presentations
 ---
 <h2 style="margin: 60px 0px 10px;">Slides</h2>
 
