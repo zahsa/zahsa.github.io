@@ -48,3 +48,22 @@ title: Slides from My Presentations
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/perception-representation-structure-and-recognition/258728882?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">Perception, representation, structure, and recognition</a></li>
 </ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/attention-mechanism-in-brain-and-deep-neural-networkrgpdf/259489334?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">Attention mechanism in brain and deep neural network</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/anomalyworkshoppdf/259624558?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">Maritime Anomaly Detection
+</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/cerebellar-model-articulation-controller/52767475?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">Cerebellar Model Articulation Controller
+</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/a-survey-on-ant-colony-clustering-papers/53689433?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">A survey on ant colony clustering papers
+</a></li>
+</ul>
