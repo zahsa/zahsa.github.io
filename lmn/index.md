@@ -29,3 +29,31 @@ title: Talks
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-exploratory-data-analysis/284093031" target="_blank">Exploratory Data Analysis</a></li>
 </ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-data-processing/285663816" target="_blank">Data Processing</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-support-vector-machine-svm/285663959" target="_blank">Support Vector Machines</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-outliers-in-data/285664020" target="_blank">Outliers</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-1/285664078" target="_blank">Data Clustering (1) </a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-2/285664150/285664078" target="_blank">Data Clustering (2) </a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-3/285664190" target="_blank">Data Clustering (3) </a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-3/285664190" target="_blank">Data Clustering (3) </a></li>
+</ul>
