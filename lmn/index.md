@@ -54,6 +54,4 @@ title: Talks
   <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-3/285664190" target="_blank">Data Clustering (3) </a></li>
 </ul>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-3/285664190" target="_blank">Data Clustering (3) </a></li>
-</ul>
+
