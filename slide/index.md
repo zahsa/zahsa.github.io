@@ -42,5 +42,9 @@ title: Slides
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.slideshare.net/slideshow/semantic-search-with-semantic-web/52767219" target="_blank">Semantic Search with Semantic Web</a></li>
+  <li><a href="https://www.slideshare.net/slideshow/16bit-microprocessors/52206061?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">16-bit microprocessors</a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/perception-representation-structure-and-recognition/258728882?utm_source=clipboard_share_button&utm_campaign=slideshare_make_sharing_viral&utm_variation=variant&utm_medium=share" target="_blank">Perception, representation, structure, and recognition</a></li>
 </ul>
