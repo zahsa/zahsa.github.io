@@ -65,3 +65,11 @@ title: Talks
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-explainable-ai/285710261"> Explainable AI (XAI) </a></li>
 </ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-loss-functions-1/285710356"> Loss Functions (1) </a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-loss-functions-2/285710400"> Loss Functions (2) </a></li>
+</ul>
