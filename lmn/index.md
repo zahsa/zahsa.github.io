@@ -54,4 +54,14 @@ title: Talks
   <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-clustering-3/285664190" target="_blank">Data Clustering (3) </a></li>
 </ul>
 
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-multi-layer-neural-networks/285710123" target="_blank"> Multi-layer Neural Networks (MLPs) </a></li>
+</ul>
 
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-convolutional-neural-networks/285710198"> Convolutional Neural Networks (CNNs) </a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-explainable-ai/285710261"> Explainable AI (XAI) </a></li>
+</ul>
