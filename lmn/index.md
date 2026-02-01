@@ -55,7 +55,7 @@ title: Talks
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-multi-layer-neural-networks/285710123" target="_blank"> Multi-layer Neural Networks (MLPs) </a></li>
+  <li><a href="https://www.slideshare.net/slideshow/machine-learning-lectures-multi-layer-neural-networks/285710123" target="_blank"> Multi-layer Neural Networks </a></li>
 </ul>
 
 
