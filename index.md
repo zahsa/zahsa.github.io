@@ -29,7 +29,7 @@ layout: homepage
 ## Science Communication Blog
 I write about diverse topics on my [SciComm](/notes/) page.
 
-## Lectures in Machine Learning 
+## My Machine Learning Course Lectures
 [Lectures](/lmn/)
 
 ## Review services 
