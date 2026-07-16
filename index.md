@@ -66,6 +66,7 @@ This consultation is suitable for:
     <td><img src="/assets/img/ute.jpeg" style="width:90%"></td> 
     <td><img src="/assets/img/dive.jpeg" style="width:70%"></td> 
     <td><img src="/assets/img/uab.png" style="width:70%"></td> 
+    <td><img src="/assets/img/ox.jpeg" style="width:70%"></td> 
 
   </tr> 
 </table> 
