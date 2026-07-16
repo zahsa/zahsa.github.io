@@ -7,11 +7,11 @@ layout: homepage
 
 <!--  **Machine Learning:** -->
  <ul>
-  <li>Deep learning</li>
+   <li>Large Language Models (LLMs) </li>
   <li>Generative AI</li>
-  <li>AI eXplainability (XAI) </li>
-  <li>Large Language Models (LLMs) </li>
+  <li>AI eXplainability (XAI) </li> 
    <li>Self-supervised learning</li>
+   <li>Deep learning</li>
   <li>Reinforcement learning</li>
 </ul> 
 
